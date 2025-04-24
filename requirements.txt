@@ -3,8 +3,7 @@ django-filter==25.1
 djangorestframework==3.15.2
 django-cors-headers==4.6.0
 djangorestframework-simplejwt == 5.3.1    # Implementación de token JWT para DRF 
-dj-rest-auth == 6.0.0                     # Utilidades de autenticación de API REST
-graphene==3.1                             # Implementación de GraphQL
+graphene-django==3.2.3                             # Implementación de GraphQL
 mailersend==0.5.8                         # Implementación de Mailer Send
 pillow==11.0.0
 psycopg[binary,pool]==3.2.3

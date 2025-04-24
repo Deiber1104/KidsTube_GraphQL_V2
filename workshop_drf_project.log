@@ -18126,3 +18126,187 @@ Bad Request: /api/auth/login/
 "GET /api/restricted_user/ HTTP/1.1" 200 2
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 200 4037
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 200 4037
+"POST /graphql/ HTTP/1.1" 200 22333
+"POST /graphql/ HTTP/1.1" 200 22333
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /favicon.ico HTTP/1.1" 404 2216
+"POST /graphql/ HTTP/1.1" 200 183
+"POST /graphql/ HTTP/1.1" 200 183
+"POST /graphql/ HTTP/1.1" 200 255
+"POST /graphql/ HTTP/1.1" 200 255
+"POST /graphql/ HTTP/1.1" 200 116
+"POST /graphql/ HTTP/1.1" 200 116
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"POST /graphql/ HTTP/1.1" 200 24623
+"POST /graphql/ HTTP/1.1" 200 24623
+"POST /graphql/ HTTP/1.1" 200 24623
+"POST /graphql/ HTTP/1.1" 200 24623
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"POST /graphql/ HTTP/1.1" 200 28911
+"POST /graphql/ HTTP/1.1" 200 28911
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"POST /graphql/ HTTP/1.1" 200 29253
+"POST /graphql/ HTTP/1.1" 200 29253
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 181
+"POST /graphql/ HTTP/1.1" 400 181
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /
+"GET / HTTP/1.1" 404 2165
+"GET / HTTP/1.1" 404 2165
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 200 4037
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 200 4037
+"POST /graphql/ HTTP/1.1" 200 29253
+"POST /graphql/ HTTP/1.1" 200 29253
+Not Found: /
+Not Found: /
+"GET / HTTP/1.1" 404 2165
+"GET / HTTP/1.1" 404 2165
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 29253
+"POST /graphql/ HTTP/1.1" 200 29253
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+Bad Request: /graphql/
+Bad Request: /graphql/
+"GET /graphql/ HTTP/1.1" 400 53
+"GET /graphql/ HTTP/1.1" 400 53
+Bad Request: /graphql/
+Bad Request: /graphql/
+"GET /graphql/ HTTP/1.1" 400 53
+"GET /graphql/ HTTP/1.1" 400 53
+Bad Request: /graphql/
+Bad Request: /graphql/
+"GET /graphql/ HTTP/1.1" 400 55
+"GET /graphql/ HTTP/1.1" 400 55
+Bad Request: /graphql/
+Bad Request: /graphql/
+"GET /graphql/ HTTP/1.1" 400 53
+"GET /graphql/ HTTP/1.1" 400 53
+Bad Request: /graphql/
+Bad Request: /graphql/
+"GET /graphql/ HTTP/1.1" 400 53
+"GET /graphql/ HTTP/1.1" 400 53
+Bad Request: /graphql/
+Bad Request: /graphql/
+"GET /graphql/ HTTP/1.1" 400 53
+"GET /graphql/ HTTP/1.1" 400 53
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 53
+"POST /graphql/ HTTP/1.1" 400 53
+Internal Server Error: /graphql
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+    ...<9 lines>...
+    )
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8001/graphql/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+Internal Server Error: /graphql
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+    ...<9 lines>...
+    )
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8001/graphql/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+"POST /graphql HTTP/1.1" 500 74208
+"POST /graphql HTTP/1.1" 500 74208
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 53
+"POST /graphql/ HTTP/1.1" 400 53
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 53
+"POST /graphql/ HTTP/1.1" 400 53
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 53
+"POST /graphql/ HTTP/1.1" 400 53
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 103
+"POST /graphql/ HTTP/1.1" 400 103
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 103
+"POST /graphql/ HTTP/1.1" 400 103
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"POST /graphql/ HTTP/1.1" 200 29253
+"POST /graphql/ HTTP/1.1" 200 29253
+"POST /graphql/ HTTP/1.1" 200 186
+"POST /graphql/ HTTP/1.1" 200 186
+"POST /graphql/ HTTP/1.1" 200 280
+"POST /graphql/ HTTP/1.1" 200 280
+"POST /graphql/ HTTP/1.1" 200 186
+"POST /graphql/ HTTP/1.1" 200 186
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28

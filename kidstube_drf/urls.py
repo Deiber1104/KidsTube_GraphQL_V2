@@ -14,14 +14,10 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
-from django.urls import path, include
-
+from django.urls import path
+from graphene_django.views import GraphQLView
+from django.views.decorators.csrf import csrf_exempt
 
 urlpatterns = [
-    # dj-ret-auth urls
-    path('api/auth/', include('dj_rest_auth.urls')),       # Endpoints provided by dj-rest-auth
-    # Our own app's urls
-    # path('api/auth-api/', include('apps.auth_api.urls')), # Our own views
-
-    path("api/", include("apps.backend.urls")), 
+    path("graphql/", csrf_exempt(GraphQLView.as_view(graphiql=True))),
 ]

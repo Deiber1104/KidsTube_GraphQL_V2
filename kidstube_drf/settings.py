@@ -62,8 +62,8 @@ THIRD_PARTY_APPS = [
     'rest_framework',
     'rest_framework.authtoken',
     'rest_framework_simplejwt',
-    'dj_rest_auth',
     'django_filters',
+    'graphene_django',
 ]
 
 PROJECT_APPS = [
@@ -71,6 +71,10 @@ PROJECT_APPS = [
 ]
 
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + PROJECT_APPS
+
+GRAPHENE = {
+    'SCHEMA': 'kidstube_drf.schema.schema'
+}
 
 # djangorestframework-simplejwt
 SIMPLE_JWT = {
@@ -85,15 +89,6 @@ SIMPLE_JWT = {
 }
 
 AUTH_USER_MODEL = "backend.CustomUserModel"
-
-# dj-rest-auth
-REST_AUTH = {
-    "USE_JWT": True,
-    #"JWT_AUTH_COOKIE": "access-token",  # Name of access token cookie
-    #"JWT_AUTH_REFRESH_COOKIE": "refresh-token", # Name of refresh token cookie
-    "JWT_AUTH_HTTPONLY": False,  # Makes sure refresh token is sent
-    'USER_DETAILS_SERIALIZER': "apps.backend.serializers.CustomUserSerializer"
-}
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
@@ -174,7 +169,6 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.IsAuthenticated',
     ),
     'DEFAULT_AUTHENTICATION_CLASSES': (
-        "dj_rest_auth.jwt_auth.JWTCookieAuthentication",
         "rest_framework.authentication.BasicAuthentication",
         #"rest_framework.authentication.SessionAuthentication",
     )
