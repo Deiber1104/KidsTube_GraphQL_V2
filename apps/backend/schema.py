@@ -31,6 +31,7 @@ class Query(graphene.ObjectType):
     all_users = graphene.List(CustomUserType)
     user_by_id = graphene.Field(CustomUserType, user_id=graphene.String(required=True))
 
+    restricted_users_by_custom_user = graphene.List(RestrictedUserType, user_id=graphene.String(required=True))
     all_restricted_users = graphene.List(RestrictedUserType)
     restricted_user_by_id = graphene.Field(RestrictedUserType, restricted_id=graphene.String(required=True))
 
@@ -54,6 +55,13 @@ class Query(graphene.ObjectType):
         except CustomUserModel.DoesNotExist:
             return None
 
+    def resolve_restricted_users_by_custom_user(root, info, user_id):
+        try:
+            # Filtrar los usuarios restringidos que tienen una relación FK con CustomUserModel
+            return RestrictedUserModel.objects.filter(restricted_user__user_id=user_id)
+        except RestrictedUserModel.DoesNotExist:
+            return None
+    
     def resolve_all_restricted_users(root, info):
         return RestrictedUserModel.objects.select_related('restricted_user').all()
 

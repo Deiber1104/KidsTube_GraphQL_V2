@@ -18310,3 +18310,133 @@ Bad Request: /graphql/
 "POST /graphql/ HTTP/1.1" 200 28
 "POST /graphql/ HTTP/1.1" 200 28
 "POST /graphql/ HTTP/1.1" 200 28
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 176
+"POST /graphql/ HTTP/1.1" 400 176
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 176
+"POST /graphql/ HTTP/1.1" 400 176
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 176
+"POST /graphql/ HTTP/1.1" 400 176
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 176
+"POST /graphql/ HTTP/1.1" 400 176
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 176
+"POST /graphql/ HTTP/1.1" 400 176
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 176
+"POST /graphql/ HTTP/1.1" 400 176
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 176
+"POST /graphql/ HTTP/1.1" 400 176
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 176
+"POST /graphql/ HTTP/1.1" 400 176
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 176
+"POST /graphql/ HTTP/1.1" 400 176
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 176
+"POST /graphql/ HTTP/1.1" 400 176
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 191
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 277
+"POST /graphql/ HTTP/1.1" 400 277
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 277
+"POST /graphql/ HTTP/1.1" 400 277
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 117
+"POST /graphql/ HTTP/1.1" 400 117
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 117
+"POST /graphql/ HTTP/1.1" 400 117
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 36
+"POST /graphql/ HTTP/1.1" 200 36
+"POST /graphql/ HTTP/1.1" 200 36
+"POST /graphql/ HTTP/1.1" 200 36
+"POST /graphql/ HTTP/1.1" 200 36
+"POST /graphql/ HTTP/1.1" 200 36
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 36
+"POST /graphql/ HTTP/1.1" 200 36
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"POST /graphql/ HTTP/1.1" 200 29623
+"POST /graphql/ HTTP/1.1" 200 29623
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 29623
+"POST /graphql/ HTTP/1.1" 200 29623
+"POST /graphql/ HTTP/1.1" 200 220
+"POST /graphql/ HTTP/1.1" 200 220
+"POST /graphql/ HTTP/1.1" 200 220
+"POST /graphql/ HTTP/1.1" 200 220
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 146
+"POST /graphql/ HTTP/1.1" 200 146
+"POST /graphql/ HTTP/1.1" 200 200
+"POST /graphql/ HTTP/1.1" 200 200
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 191
+"POST /graphql/ HTTP/1.1" 200 200
+"POST /graphql/ HTTP/1.1" 200 200
+"POST /graphql/ HTTP/1.1" 200 200
+"POST /graphql/ HTTP/1.1" 200 200
+"POST /graphql/ HTTP/1.1" 200 43
+"POST /graphql/ HTTP/1.1" 200 43
+"POST /graphql/ HTTP/1.1" 200 43
+"POST /graphql/ HTTP/1.1" 200 43
+"POST /graphql/ HTTP/1.1" 200 43
+"POST /graphql/ HTTP/1.1" 200 43
+"POST /graphql/ HTTP/1.1" 200 200
+"POST /graphql/ HTTP/1.1" 200 200
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 127
+"POST /graphql/ HTTP/1.1" 400 127
