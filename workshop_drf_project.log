@@ -18440,3 +18440,199 @@ Bad Request: /graphql/
 Bad Request: /graphql/
 "POST /graphql/ HTTP/1.1" 400 127
 "POST /graphql/ HTTP/1.1" 400 127
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 127
+"POST /graphql/ HTTP/1.1" 400 127
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 127
+"POST /graphql/ HTTP/1.1" 400 127
+"POST /graphql/ HTTP/1.1" 200 200
+"POST /graphql/ HTTP/1.1" 200 200
+"POST /graphql/ HTTP/1.1" 200 200
+"POST /graphql/ HTTP/1.1" 200 200
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 30
+"POST /graphql/ HTTP/1.1" 200 30
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /
+"GET / HTTP/1.1" 404 2165
+"GET / HTTP/1.1" 404 2165
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"POST /graphql/ HTTP/1.1" 200 29623
+"POST /graphql/ HTTP/1.1" 200 29623
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 29623
+"POST /graphql/ HTTP/1.1" 200 29623
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 169
+"POST /graphql/ HTTP/1.1" 400 169
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"POST /graphql/ HTTP/1.1" 200 29623
+"POST /graphql/ HTTP/1.1" 200 29623
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /favicon.ico HTTP/1.1" 404 2216
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /favicon.ico HTTP/1.1" 404 2216
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 223
+"POST /graphql/ HTTP/1.1" 200 223
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 331
+"POST /graphql/ HTTP/1.1" 200 223
+"POST /graphql/ HTTP/1.1" 200 223
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 223
+"POST /graphql/ HTTP/1.1" 200 223
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /
+"GET / HTTP/1.1" 404 2165
+"GET / HTTP/1.1" 404 2165
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"POST /graphql/ HTTP/1.1" 200 29372
+"POST /graphql/ HTTP/1.1" 200 29372
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 164
+"POST /graphql/ HTTP/1.1" 400 164
+"POST /graphql/ HTTP/1.1" 200 214
+"POST /graphql/ HTTP/1.1" 200 214
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 181
+"POST /graphql/ HTTP/1.1" 400 181
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 181
+"POST /graphql/ HTTP/1.1" 400 181
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 181
+"POST /graphql/ HTTP/1.1" 400 181
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 181
+"POST /graphql/ HTTP/1.1" 400 181
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 179
+"POST /graphql/ HTTP/1.1" 400 179
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 179
+"POST /graphql/ HTTP/1.1" 400 179
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 166
+"POST /graphql/ HTTP/1.1" 400 166
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 166
+"POST /graphql/ HTTP/1.1" 400 166
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 178
+"POST /graphql/ HTTP/1.1" 400 178
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
