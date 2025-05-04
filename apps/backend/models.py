@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 class CustomUserModel(AbstractUser):
     user_id = models.CharField(max_length=50, default=uuid4, primary_key=True, editable=False)
     email = models.EmailField(max_length=150, null=False, blank=False, unique=True)
-    phone = models.PositiveIntegerField(default=0)
+    phone = models.CharField(max_length=50, null=False)
     pin = models.CharField(max_length=6, null=False, blank=False)
     first_name = models.CharField(max_length=150, null=False, blank=False)
     last_name = models.CharField(max_length=150, null=False, blank=False)

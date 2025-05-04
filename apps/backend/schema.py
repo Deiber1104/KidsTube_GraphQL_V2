@@ -1,4 +1,5 @@
 import graphene
+from django.db.models import Q
 from graphene_django.types import DjangoObjectType
 from .models import CustomUserModel, PlaylistModel, RestrictedUserModel, VideoModel
 
@@ -45,14 +46,65 @@ class Query(graphene.ObjectType):
 
     all_playlists = graphene.List(
         PlaylistType,
-        profile=graphene.String(),       # ID of a RestrictedUser
+        profile=graphene.String(),                          # ID of a RestrictedUser
         video_name=graphene.String(),
         video_desc=graphene.String()
     )
+    playlists_by_user = graphene.List(
+        PlaylistType,
+        user_id=graphene.String(required=True)                  # ID del usuario principal
+    )
     playlist_by_id = graphene.Field(PlaylistType, playlist_id=graphene.String(required=True))
 
-    all_videos = graphene.List(VideoType)
+    playlists_by_restricted_user = graphene.List(
+        PlaylistType, 
+        restricted_id=graphene.String(required=True)
+    )
+
+    all_videos = graphene.List(
+        VideoType,
+        user_id=graphene.String(required=True)
+    )
     video_by_id = graphene.Field(VideoType, video_id=graphene.String(required=True))
+
+    videos_by_playlist = graphene.List(
+        VideoType,  # El tipo de objeto que estamos buscando (VideoType)
+        playlist_id=graphene.String(required=True)  # El argumento será el ID de la playlist
+    )
+
+    search_videos = graphene.List(
+        VideoType,
+        search_term=graphene.String(required=True),  # Término de búsqueda
+        restricted_id=graphene.String(required=True)  # ID del usuario restringido
+    )
+
+    def resolve_search_videos(self, info, search_term, restricted_id):
+        search_term = search_term.lower()
+
+        playlists = PlaylistModel.objects.filter(
+            associated_profiles__restricted_id=restricted_id
+        )
+
+        queryset = VideoModel.objects.filter(
+            playlists__in=playlists
+        ).distinct()
+
+        return queryset.filter(
+            Q(name__icontains=search_term) | Q(description__icontains=search_term)
+        )
+
+    def resolve_videos_by_playlist(self, info, playlist_id):
+        try:
+            playlist = PlaylistModel.objects.get(playlist_id=playlist_id)
+        except PlaylistModel.DoesNotExist:
+            return None
+
+        # Filtrar los videos asociados con la playlist
+        return VideoModel.objects.filter(playlists=playlist)
+
+
+    def resolve_playlists_by_restricted_user(self, info, restricted_id):
+        return PlaylistModel.objects.filter(associated_profiles__restricted_id=restricted_id)
 
     def resolve_all_users(root, info):
         return CustomUserModel.objects.all()
@@ -90,15 +142,25 @@ class Query(graphene.ObjectType):
             queryset = queryset.filter(videos__description__icontains=video_desc)
         
         return queryset.distinct()
+    
+    def resolve_playlists_by_user(root, info, user_id):
+        restricted_profiles = RestrictedUserModel.objects.filter(restricted_user__user_id=user_id)
+
+        playlists = PlaylistModel.objects.filter(associated_profiles__in=restricted_profiles).distinct()
+
+        return playlists
 
     def resolve_playlist_by_id(root, info, playlist_id):
         return PlaylistModel.objects.prefetch_related('associated_profiles').filter(pk=playlist_id).first()
 
-    def resolve_all_videos(root, info):
-        return VideoModel.objects.prefetch_related('playlists').all()
+    def resolve_all_videos(root, info, user_id):
+        restricted_profiles = RestrictedUserModel.objects.filter(restricted_user__user_id=user_id)
 
-    def resolve_video_by_id(root, info, video_id):
-        return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+        queryset = VideoModel.objects.filter(playlists__associated_profiles__in=restricted_profiles).distinct()
+
+        return queryset
+
+    
 
 
 # CARGA TODOS LOS QUERYS Y SUS DEFINICIONES

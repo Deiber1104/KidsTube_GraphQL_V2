@@ -18636,3 +18636,1737 @@ Bad Request: /graphql/
 "POST /graphql/ HTTP/1.1" 200 322
 "POST /graphql/ HTTP/1.1" 200 322
 "POST /graphql/ HTTP/1.1" 200 322
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 177
+"POST /graphql/ HTTP/1.1" 200 177
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 177
+"POST /graphql/ HTTP/1.1" 200 177
+"POST /graphql/ HTTP/1.1" 200 323
+"POST /graphql/ HTTP/1.1" 200 323
+"POST /graphql/ HTTP/1.1" 200 178
+"POST /graphql/ HTTP/1.1" 200 178
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 204
+"POST /graphql/ HTTP/1.1" 200 204
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 202
+"POST /graphql/ HTTP/1.1" 400 202
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 280
+"POST /graphql/ HTTP/1.1" 200 280
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 280
+"POST /graphql/ HTTP/1.1" 200 280
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 280
+"POST /graphql/ HTTP/1.1" 200 280
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 204
+"POST /graphql/ HTTP/1.1" 200 204
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 280
+"POST /graphql/ HTTP/1.1" 200 280
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 508
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 639
+"POST /graphql/ HTTP/1.1" 200 639
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 639
+"POST /graphql/ HTTP/1.1" 200 639
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 639
+"POST /graphql/ HTTP/1.1" 200 639
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 639
+"POST /graphql/ HTTP/1.1" 200 639
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 31
+"POST /graphql/ HTTP/1.1" 200 31
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 31
+"POST /graphql/ HTTP/1.1" 200 31
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 115
+"POST /graphql/ HTTP/1.1" 400 115
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 253
+"POST /graphql/ HTTP/1.1" 200 253
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 409
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 253
+"POST /graphql/ HTTP/1.1" 200 253
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 800
+"POST /graphql/ HTTP/1.1" 200 800
+"POST /graphql/ HTTP/1.1" 200 411
+"POST /graphql/ HTTP/1.1" 200 411
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 484
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 111
+"POST /graphql/ HTTP/1.1" 400 111
+"POST /graphql/ HTTP/1.1" 200 31
+"POST /graphql/ HTTP/1.1" 200 31
+"POST /graphql/ HTTP/1.1" 200 31
+"POST /graphql/ HTTP/1.1" 200 31
+"POST /graphql/ HTTP/1.1" 200 31
+"POST /graphql/ HTTP/1.1" 200 31
+"POST /graphql/ HTTP/1.1" 200 176
+"POST /graphql/ HTTP/1.1" 200 176
+"POST /graphql/ HTTP/1.1" 200 176
+"POST /graphql/ HTTP/1.1" 200 176
+"POST /graphql/ HTTP/1.1" 200 176
+"POST /graphql/ HTTP/1.1" 200 176
+"POST /graphql/ HTTP/1.1" 200 176
+"POST /graphql/ HTTP/1.1" 200 176
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /graph/ HTTP/1.1" 200 0
+"OPTIONS /graph/ HTTP/1.1" 200 0
+Not Found: /graph/
+Not Found: /graph/
+"POST /graph/ HTTP/1.1" 404 2202
+"POST /graph/ HTTP/1.1" 404 2202
+Not Found: /graph/
+Not Found: /graph/
+"POST /graph/ HTTP/1.1" 404 2202
+"POST /graph/ HTTP/1.1" 404 2202
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<101 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<101 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+"POST /graphql/ HTTP/1.1" 500 151359
+"POST /graphql/ HTTP/1.1" 500 151359
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<101 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<101 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+"POST /graphql/ HTTP/1.1" 500 151359
+"POST /graphql/ HTTP/1.1" 500 151359
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<101 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<101 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+"POST /graphql/ HTTP/1.1" 500 151359
+"POST /graphql/ HTTP/1.1" 500 151359
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<101 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<101 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+"POST /graphql/ HTTP/1.1" 500 151359
+"POST /graphql/ HTTP/1.1" 500 151359
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<102 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<102 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+"POST /graphql/ HTTP/1.1" 500 151359
+"POST /graphql/ HTTP/1.1" 500 151359
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<102 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<102 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+"POST /graphql/ HTTP/1.1" 500 151359
+"POST /graphql/ HTTP/1.1" 500 151359
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<102 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 59, in Query
+    graphene.ObjectType('VideoType', fields={
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+        'video_id': graphene.String(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        'playlists': graphene.List(graphene.String)   # Lista de nombres de las playlists asociadas
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    }),
+    ^^
+TypeError: ObjectType() takes no arguments
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<102 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 59, in Query
+    graphene.ObjectType('VideoType', fields={
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+        'video_id': graphene.String(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        'playlists': graphene.List(graphene.String)   # Lista de nombres de las playlists asociadas
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    }),
+    ^^
+TypeError: ObjectType() takes no arguments
+"POST /graphql/ HTTP/1.1" 500 146163
+"POST /graphql/ HTTP/1.1" 500 146163
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<102 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 59, in Query
+    graphene.ObjectType('VideoType', fields={
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+        'video_id': graphene.String(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        'playlists': graphene.List(graphene.String)   # Lista de nombres de las playlists asociadas
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    }),
+    ^^
+TypeError: ObjectType() takes no arguments
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<102 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 59, in Query
+    graphene.ObjectType('VideoType', fields={
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+        'video_id': graphene.String(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        'playlists': graphene.List(graphene.String)   # Lista de nombres de las playlists asociadas
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    }),
+    ^^
+TypeError: ObjectType() takes no arguments
+"POST /graphql/ HTTP/1.1" 500 146162
+"POST /graphql/ HTTP/1.1" 500 146162
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<102 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+Internal Server Error: /graphql/
+Traceback (most recent call last):
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\django\views\generic\base.py", line 97, in view
+    self = cls(**initkwargs)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\views.py", line 114, in __init__
+    schema = graphene_settings.SCHEMA
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 127, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 66, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene_django\settings.py", line 80, in import_from_string
+    module = importlib.import_module(module_path)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\kidstube_drf\schema.py", line 2, in <module>
+    import apps.backend.schema
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 34, in <module>
+    class Query(graphene.ObjectType):
+    ...<102 lines>...
+            return VideoModel.objects.prefetch_related('playlists').filter(pk=video_id).first()
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py", line 64, in Query
+    'playlists': graphene.List(graphene.String())   # Lista de nombres de las playlists asociadas
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\env\Lib\site-packages\graphene\types\structures.py", line 16, in __init__
+    raise Exception(
+    ...<2 lines>...
+    )
+Exception: List could not have a mounted String() as inner type. Try with List(String).
+"POST /graphql/ HTTP/1.1" 500 151358
+"POST /graphql/ HTTP/1.1" 500 151358
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 178
+"POST /graphql/ HTTP/1.1" 400 178
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 176
+"POST /graphql/ HTTP/1.1" 200 176
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 642
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 172
+"POST /graphql/ HTTP/1.1" 400 172
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 172
+"POST /graphql/ HTTP/1.1" 400 172
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 172
+"POST /graphql/ HTTP/1.1" 400 172
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 616
+"POST /graphql/ HTTP/1.1" 400 616
+"POST /graphql/ HTTP/1.1" 200 217
+"POST /graphql/ HTTP/1.1" 200 217
+"POST /graphql/ HTTP/1.1" 200 217
+"POST /graphql/ HTTP/1.1" 200 217
+"POST /graphql/ HTTP/1.1" 200 217
+"POST /graphql/ HTTP/1.1" 200 217
+"POST /graphql/ HTTP/1.1" 200 217
+"POST /graphql/ HTTP/1.1" 200 217
+"POST /graphql/ HTTP/1.1" 200 217
+"POST /graphql/ HTTP/1.1" 200 217
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 217
+"POST /graphql/ HTTP/1.1" 200 217
+"POST /graphql/ HTTP/1.1" 200 217
+"POST /graphql/ HTTP/1.1" 200 217
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 268
+"POST /graphql/ HTTP/1.1" 200 268
+"POST /graphql/ HTTP/1.1" 200 268
+"POST /graphql/ HTTP/1.1" 200 268
+"POST /graphql/ HTTP/1.1" 200 268
+"POST /graphql/ HTTP/1.1" 200 268
+"POST /graphql/ HTTP/1.1" 200 268
+"POST /graphql/ HTTP/1.1" 200 268
+Not Found: /
+Not Found: /
+"GET / HTTP/1.1" 404 2165
+"GET / HTTP/1.1" 404 2165
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /favicon.ico HTTP/1.1" 404 2216
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"GET /static/graphene_django/graphiql.js HTTP/1.1" 304 0
+"POST /graphql/ HTTP/1.1" 200 31061
+"POST /graphql/ HTTP/1.1" 200 31061
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 268
+"POST /graphql/ HTTP/1.1" 200 268
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 267
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 267
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 334
+"POST /graphql/ HTTP/1.1" 400 334
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 267
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 41
+"POST /graphql/ HTTP/1.1" 200 41
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 334
+"POST /graphql/ HTTP/1.1" 400 334
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 186
+"POST /graphql/ HTTP/1.1" 200 186
+Bad Request: /graphql/
+Bad Request: /graphql/
+"POST /graphql/ HTTP/1.1" 400 334
+"POST /graphql/ HTTP/1.1" 400 334
+"POST /graphql/ HTTP/1.1" 200 186
+"POST /graphql/ HTTP/1.1" 200 186
+"POST /graphql/ HTTP/1.1" 200 186
+"POST /graphql/ HTTP/1.1" 200 186
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 198
+"POST /graphql/ HTTP/1.1" 200 198
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 198
+"POST /graphql/ HTTP/1.1" 200 198
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 198
+"POST /graphql/ HTTP/1.1" 200 198
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 247
+"POST /graphql/ HTTP/1.1" 200 247
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 248
+"POST /graphql/ HTTP/1.1" 200 248
+"POST /graphql/ HTTP/1.1" 200 248
+"POST /graphql/ HTTP/1.1" 200 248
+"POST /graphql/ HTTP/1.1" 200 247
+"POST /graphql/ HTTP/1.1" 200 247
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 247
+"POST /graphql/ HTTP/1.1" 200 247
+"POST /graphql/ HTTP/1.1" 200 247
+"POST /graphql/ HTTP/1.1" 200 247
+"POST /graphql/ HTTP/1.1" 200 247
+"POST /graphql/ HTTP/1.1" 200 247
+"POST /graphql/ HTTP/1.1" 200 248
+"POST /graphql/ HTTP/1.1" 200 248
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 198
+"POST /graphql/ HTTP/1.1" 200 198
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 30597
+"POST /graphql/ HTTP/1.1" 200 30597
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 30598
+"POST /graphql/ HTTP/1.1" 200 30598
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 30598
+"POST /graphql/ HTTP/1.1" 200 30598
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 30598
+"POST /graphql/ HTTP/1.1" 200 30598
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 30598
+"POST /graphql/ HTTP/1.1" 200 30598
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 30598
+"POST /graphql/ HTTP/1.1" 200 30598
+"POST /graphql/ HTTP/1.1" 200 460
+"POST /graphql/ HTTP/1.1" 200 460
+"POST /graphql/ HTTP/1.1" 200 460
+"POST /graphql/ HTTP/1.1" 200 460
+"POST /graphql/ HTTP/1.1" 200 218
+"POST /graphql/ HTTP/1.1" 200 218
+"POST /graphql/ HTTP/1.1" 200 460
+"POST /graphql/ HTTP/1.1" 200 460
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31061
+"POST /graphql/ HTTP/1.1" 200 31061
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31061
+"POST /graphql/ HTTP/1.1" 200 31061
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31061
+"POST /graphql/ HTTP/1.1" 200 31061
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 186
+"POST /graphql/ HTTP/1.1" 200 186
+"POST /graphql/ HTTP/1.1" 200 180
+"POST /graphql/ HTTP/1.1" 200 180
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31061
+"POST /graphql/ HTTP/1.1" 200 31061
+"POST /graphql/ HTTP/1.1" 200 230
+"POST /graphql/ HTTP/1.1" 200 230
+"POST /graphql/ HTTP/1.1" 200 460
+"POST /graphql/ HTTP/1.1" 200 460
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"POST /graphql/ HTTP/1.1" 200 218
+"POST /graphql/ HTTP/1.1" 200 218
+"POST /graphql/ HTTP/1.1" 200 460
+"POST /graphql/ HTTP/1.1" 200 460
+"POST /graphql/ HTTP/1.1" 200 643
+"POST /graphql/ HTTP/1.1" 200 643
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 31107
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 31107
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 31107
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 31107
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 31107
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 31107
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 31107
+"GET /graphql/ HTTP/1.1" 200 2611
+"GET /graphql/ HTTP/1.1" 200 2611
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 31107
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\schema.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 643
+"POST /graphql/ HTTP/1.1" 200 643
+"POST /graphql/ HTTP/1.1" 200 230
+"POST /graphql/ HTTP/1.1" 200 230
+"POST /graphql/ HTTP/1.1" 200 253
+"POST /graphql/ HTTP/1.1" 200 253
+"POST /graphql/ HTTP/1.1" 200 456
+"POST /graphql/ HTTP/1.1" 200 456
+"POST /graphql/ HTTP/1.1" 200 643
+"POST /graphql/ HTTP/1.1" 200 643
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 31
+"POST /graphql/ HTTP/1.1" 200 31
+"POST /graphql/ HTTP/1.1" 200 292
+"POST /graphql/ HTTP/1.1" 200 292
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 25
+"POST /graphql/ HTTP/1.1" 200 107
+"POST /graphql/ HTTP/1.1" 200 107
+"POST /graphql/ HTTP/1.1" 200 351
+"POST /graphql/ HTTP/1.1" 200 351
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 643
+"POST /graphql/ HTTP/1.1" 200 643
+"POST /graphql/ HTTP/1.1" 200 230
+"POST /graphql/ HTTP/1.1" 200 230
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 267
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 117
+"POST /graphql/ HTTP/1.1" 200 263
+"POST /graphql/ HTTP/1.1" 200 263
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 28
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 186
+"POST /graphql/ HTTP/1.1" 200 186
+"POST /graphql/ HTTP/1.1" 200 643
+"POST /graphql/ HTTP/1.1" 200 643
+"POST /graphql/ HTTP/1.1" 200 230
+"POST /graphql/ HTTP/1.1" 200 230
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 900
+"POST /graphql/ HTTP/1.1" 200 915
+"POST /graphql/ HTTP/1.1" 200 915
+"POST /graphql/ HTTP/1.1" 200 912
+"POST /graphql/ HTTP/1.1" 200 912
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 195
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+"POST /graphql/ HTTP/1.1" 200 322
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\models.py changed, reloading.
+C:\Users\deibe\OneDrive\Documentos\I Cuatrimestre -2025\Ambiente Web ll\KidsTube_GraphQL_V2\apps\backend\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"OPTIONS /graphql/ HTTP/1.1" 200 0
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
+"POST /graphql/ HTTP/1.1" 200 34
